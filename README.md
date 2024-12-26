@@ -1,6 +1,6 @@
 # Report on Keylogger Project Exploiting Windows 1507 Vulnerabilities
 
- 1. Introduction
+## 1. Introduction
 
 This report documents a controlled cybersecurity experiment designed to demonstrate the exploitation of human error and inadequate security measures. The experiment involves creating a custom keylogger disguised as a calculator application on a Windows 10 (version 1507) system. Through this analysis, we examine the vulnerabilities exploited, attack methodology, and essential risk mitigation strategies.
 
